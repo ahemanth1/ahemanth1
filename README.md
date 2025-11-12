@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hemanth Adigopula  
+# 👋 Hi, I'm Hemanth  
 
 🚀 **Aspiring Software Engineer | Web Developer | AI/ML Enthusiast**  
 
