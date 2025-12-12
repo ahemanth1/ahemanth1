@@ -16,7 +16,7 @@ Currently pursuing **B.Tech in Computer Science** at *Seshadri Rao Gudlavalleru 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, Java, C, JavaScript, HTML, CSS, PHP  
+**Languages:** Python, C, JavaScript, HTML, CSS, PHP  
 **Tools & Databases:** MySQL, GitHub, VS Code, Orange, Vercel   
 
 ---
