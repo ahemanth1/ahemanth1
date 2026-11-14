@@ -2,8 +2,9 @@
 
 🚀 **Aspiring Software Engineer | Web Developer | AI/ML Enthusiast**  
 
-I'm passionate about building clean, functional web applications and exploring new technologies that solve real-world problems.  
-Currently pursuing **B.Tech in Computer Science** at *Seshadri Rao Gudlavalleru Engineering College*.
+**Career Objective**
+
+Aspiring Software Engineer with a strong foundation in programming, full-stack web development, and database management. Proficient in Python, JavaScript, HTML, CSS, PHP, and MySQL, with hands-on experience developing web applications and interactive components. Seeking a Software Engineer I – Product / Full-Stack role to contribute to building scalable, user-centric products, solve real-world problems, and grow through continuous learning and collaboration.
 
 ---
 
